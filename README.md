@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Turning Ideas into Production-Ready Software with Clean, Scalable Code</h1>
+<h1 align="center">Turning Ideas into Production-Ready Software with Clean, Scalable Code 🔥🔥🔥</h1>
 
 <p align="center">
   <img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/0aa015e9-a767-48a7-b399-c78dca19c27b" alt="Banner"/>
