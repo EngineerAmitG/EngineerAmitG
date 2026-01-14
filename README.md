@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/0aa015e9-a767-48a7-b399-c78dca19c27b" />
 <!--
 **EngineerAmitG/EngineerAmitG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
