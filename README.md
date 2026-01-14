@@ -2,10 +2,10 @@
 <h1 align="center">Engineering Real-World Solutions with Java & Full-Stack Skills</h1>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" />
+  <img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/0aa015e9-a767-48a7-b399-c78dca19c27b" alt="Banner"/>
 </p>
 
-<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/0aa015e9-a767-48a7-b399-c78dca19c27b" />
+
 <!--
 **EngineerAmitG/EngineerAmitG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
